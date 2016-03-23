@@ -1,0 +1,19 @@
+{
+  "name": "cheapnoderemotecontrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "remoteControl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "An arduino simple project to control pc over IR remote control",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.3.7",
+    "serialport": "^1.6.3",
+    "yargs": "^4.3.2"
+  },
+  "devDependencies": {
+    "faye": "^1.1.2"
+  }
+}
